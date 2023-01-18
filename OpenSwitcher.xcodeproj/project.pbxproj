@@ -13,7 +13,6 @@
 		8CCD7804293934F2001CE4CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CCD7803293934F2001CE4CB /* Preview Assets.xcassets */; };
 		8CCD780B2939353D001CE4CB /* KeyManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCD780A2939353D001CE4CB /* KeyManager.swift */; };
 		8CCD780D29393556001CE4CB /* EventSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCD780C29393556001CE4CB /* EventSource.swift */; };
-		8CCD780F29393685001CE4CB /* README in Resources */ = {isa = PBXBuildFile; fileRef = 8CCD780E29393685001CE4CB /* README */; };
 		8CD547BA29393C900091B4DF /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CD547B929393C900091B4DF /* icon.png */; };
 		8CD547BC293948E30091B4DF /* Consts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD547BB293948E30091B4DF /* Consts.swift */; };
 /* End PBXBuildFile section */
@@ -27,7 +26,6 @@
 		8CCD7803293934F2001CE4CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8CCD780A2939353D001CE4CB /* KeyManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyManager.swift; sourceTree = "<group>"; };
 		8CCD780C29393556001CE4CB /* EventSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventSource.swift; sourceTree = "<group>"; };
-		8CCD780E29393685001CE4CB /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		8CD547B929393C900091B4DF /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		8CD547BB293948E30091B4DF /* Consts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Consts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,7 +69,6 @@
 				8CCD7802293934F2001CE4CB /* Preview Content */,
 				8CCD780A2939353D001CE4CB /* KeyManager.swift */,
 				8CCD780C29393556001CE4CB /* EventSource.swift */,
-				8CCD780E29393685001CE4CB /* README */,
 			);
 			path = OpenSwitcher;
 			sourceTree = "<group>";
@@ -143,7 +140,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CD547BA29393C900091B4DF /* icon.png in Resources */,
-				8CCD780F29393685001CE4CB /* README in Resources */,
 				8CCD7804293934F2001CE4CB /* Preview Assets.xcassets in Resources */,
 				8CCD7800293934F2001CE4CB /* Assets.xcassets in Resources */,
 			);
